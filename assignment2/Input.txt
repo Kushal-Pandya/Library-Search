@@ -1,0 +1,8 @@
+Type: "Book"
+Call Number: "CallNo"
+Author: "asdasd"
+Title: "fddfdfd"
+Publisher: "asdasd"
+Year: "2077"
+
+
